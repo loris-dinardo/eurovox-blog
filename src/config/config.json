@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "EuroVox | Blog",
-    "base_url": "https://loris-dinardo.github.io",
-    "base_path": "eurovox-blog",
+    "base_url": "eurovox-blog.dndm.ch",
+    "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
