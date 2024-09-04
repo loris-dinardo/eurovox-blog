@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
-    "base_path": "/",
+    "title": "EuroVox | Blog",
+    "base_url": "https://loris-dinardo.github.io",
+    "base_path": "eurovox-blog",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",

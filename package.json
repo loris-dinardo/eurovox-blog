@@ -1,11 +1,12 @@
 {
-  "name": "bookworm-light-astro",
-  "version": "2.0.1",
+  "name": "eurovox-blog",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "format": "prettier -w ."
+    "format": "prettier -w .",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@astrojs/mdx": "^3.0.1",
@@ -41,6 +42,7 @@
     "sharp": "0.33.4",
     "tailwind-bootstrap-grid": "^5.1.0",
     "tailwindcss": "^3.4.4",
-    "typescript": "5.4.5"
+    "typescript": "5.4.5",
+    "gh-pages": "^6.1.1"
   }
 }
